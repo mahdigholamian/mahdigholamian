@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahdigholamian
+- 👋 Hi, I’m mahdi gholamian
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web programming
